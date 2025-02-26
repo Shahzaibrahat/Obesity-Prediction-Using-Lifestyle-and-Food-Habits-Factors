@@ -7,7 +7,7 @@ This project aims to predict obesity levels based on individuals' lifestyle choi
 ## Repository Structure
 ```
 📂 project_root/
-│-- 📂 Code_file.Rmd             # Raw and processed dataset
+│-- 📂 Code_file.ipynb            # Raw and processed dataset
 │-- 📜 report_with_visulaizations.pdf        # R Markdown report containing analysis and findings
 │-- 📜 README.md         # This file
 ```
